@@ -26,7 +26,7 @@
 <h3>👨‍💻 Language</h3>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/c-A8B9CCC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <h3>⚙️ Backend</h3>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -41,4 +41,23 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft Azure-0854C1?style=for-the-badge&logo=&logoColor=white">
 </div>
+
+<h3>🎓 Education & Training</h3>
+
+* Chungbuk National University – Electronics Major 2017.03 - 2024.02
+* KT AIVLE SCHOOL 6th AI Developer Course 2024.09 - 2025.02
+
+<h3>📜 Certifications</h3>
+
+* 정보처리 기사
+
+* SQLD
+  
+* AICE ASSOCIATE
+
+<h3>🏆 Award</h3>
+
+* AIVLE SCHOOL BIG PROJECT 우수상
+
+* AIVLE SCHOOL DEAN'S LIST(우수 수료생 10%)
 
